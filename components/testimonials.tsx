@@ -27,7 +27,7 @@ const testimonials = [
     name: "David Martinez",
     location: "Austin, USA",
     rating: 5,
-    text: "The quality of plants is unmatched. I have ordered from many places, but ThePlantsVerse is by far the best. Highly recommend!",
+    text: "The quality of plants is unmatched. I have ordered from many places, but LyophiHome is by far the best. Highly recommend!",
     image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop",
   },
 ]

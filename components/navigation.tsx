@@ -15,7 +15,7 @@ export function Navigation() {
             <div className="w-10 h-10 bg-primary rounded-full flex items-center justify-center">
               <span className="text-2xl">🌿</span>
             </div>
-            <span className="text-2xl font-serif font-bold text-primary">ThePlantsVerse</span>
+            <span className="text-2xl font-serif font-bold text-primary">LyophiHome</span>
           </div>
 
           <div className="hidden md:flex items-center gap-8">

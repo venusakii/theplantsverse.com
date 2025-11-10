@@ -10,8 +10,8 @@ export function About() {
               Your Trusted Source for Rare Houseplants
             </h2>
             <p className="text-lg text-foreground/80 mb-6 leading-relaxed">
-              ThePlantsVerse is more than just a plant shop. We're a community of passionate plant enthusiasts dedicated
-              to bringing the world's most extraordinary houseplants to your home.
+              LyophiHome is more than just a plant shop. We're a community of passionate plant enthusiasts dedicated to
+              bringing the world's most extraordinary houseplants to your home.
             </p>
             <p className="text-lg text-foreground/80 mb-8 leading-relaxed">
               Every plant in our collection is carefully sourced from ethical growers worldwide, ensuring you receive
@@ -63,7 +63,11 @@ export function About() {
 
           <div className="relative">
             <div className="glossy-card p-8 rounded-2xl">
-              <img src="/beautiful-indoor-plant-collection-greenhouse.jpg" alt="Plant collection" className="w-full h-auto rounded-lg" />
+              <img
+                src="/beautiful-indoor-plant-collection-greenhouse.jpg"
+                alt="Plant collection"
+                className="w-full h-auto rounded-lg"
+              />
             </div>
             <div className="absolute -bottom-6 -left-6 w-32 h-32 bg-secondary/30 rounded-full blur-3xl" />
             <div className="absolute -top-6 -right-6 w-40 h-40 bg-primary/20 rounded-full blur-3xl" />

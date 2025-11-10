@@ -10,7 +10,7 @@ export function Footer() {
               <div className="w-10 h-10 bg-primary rounded-full flex items-center justify-center">
                 <Leaf className="w-6 h-6 text-primary-foreground" />
               </div>
-              <span className="text-2xl font-serif font-bold">ThePlantsVerse</span>
+              <span className="text-2xl font-serif font-bold">LyophiHome</span>
             </div>
             <p className="text-background/80 mb-6 leading-relaxed">
               Your trusted source for rare and exotic houseplants. Bringing botanical beauty to homes worldwide since
@@ -124,7 +124,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-background/20 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
-          <p className="text-background/60 text-sm">© 2025 ThePlantsVerse. All rights reserved.</p>
+          <p className="text-background/60 text-sm">© 2025 LyophiHome. All rights reserved.</p>
           <div className="flex gap-6 text-sm text-background/60">
             <a href="#" className="hover:text-primary transition-colors">
               Privacy Policy

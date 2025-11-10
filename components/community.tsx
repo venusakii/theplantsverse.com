@@ -18,7 +18,7 @@ export function Community() {
               <Instagram className="w-8 h-8 text-primary" />
             </div>
             <h3 className="text-2xl font-semibold text-foreground mb-2">Instagram</h3>
-            <p className="text-muted-foreground mb-4">Share your plant photos with #ThePlantsVerse</p>
+            <p className="text-muted-foreground mb-4">Share your plant photos with #LyophiHome</p>
             <Button variant="outline" className="border-primary text-primary hover:bg-primary/10 bg-transparent">
               Follow Us
             </Button>

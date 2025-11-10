@@ -17,7 +17,7 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "ThePlantsVerse - Rare Houseplants Encyclopedia & Store",
+  title: "LyophiHome - Rare Houseplants Encyclopedia & Store",
   description: "Discover and shop rare houseplants from around the world. Your ultimate guide to exotic indoor plants.",
   generator: "v0.app",
 }
